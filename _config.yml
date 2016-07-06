@@ -1,7 +1,7 @@
 name: Bare Maximum
 favicon: null
-layout_spectrum: 0.5688521857373416
-typography_spectrum: 0.4235264484304935
+layout_spectrum: 0
+typography_spectrum: 0.73382
 title: Bare Maximum - Pushing the Paradigm
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.275269455043599
+    - '#ffffff'
+    - '#30279e'
+    - '#14e06d'
+    - '#a6c4de'
+    - '#886b63'
+  brandStrength: 0.75
   lightness: 0.20856494852341712
-  saturation: 0.36076972587034106
-  rhythmicContrast: 0.6241861467715353
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
