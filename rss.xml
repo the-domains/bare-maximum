@@ -4,21 +4,21 @@
         <description><![CDATA[Bare Maximum - Pushing the Paradigm]]></description>
         <link>https://thegrid.ai/bare-maximum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 05:32:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 05:32:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bare-maximum/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bare Maximum LLC]]></title>
+            <description><![CDATA[<article><h1>Bare Maximum LLC</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3fc7dac-3344-4f35-b67e-f10cc6f2e467.png"></article>]]></description>
+            <link>https://thegrid.ai/bare-maximum/bare-maximum-llc/index.html</link>
+            <guid isPermaLink="false">3d6fcbe9-697c-4b36-a99c-d8be8fefee12</guid>
+            <pubDate>Wed, 06 Jul 2016 05:32:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8de884e-1436-4407-9cf9-16952b196626.jpg">]]></description>
             <link>https://thegrid.ai/bare-maximum/3d49d05e-ca29-41ac-93a5-5c8bde951edc/index.html</link>
             <guid isPermaLink="false">3d49d05e-ca29-41ac-93a5-5c8bde951edc</guid>
             <pubDate>Wed, 06 Jul 2016 05:32:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3fc7dac-3344-4f35-b67e-f10cc6f2e467.png">]]></description>
-            <link>https://thegrid.ai/bare-maximum/bare-maximum-llc/index.html</link>
-            <guid isPermaLink="false">3d6fcbe9-697c-4b36-a99c-d8be8fefee12</guid>
-            <pubDate>Wed, 06 Jul 2016 05:30:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
