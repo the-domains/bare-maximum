@@ -1,29 +1,41 @@
-name: Bare Maximum
-favicon: null
-layout_spectrum: 0.26923
-typography_spectrum: 0.40165
 title: Bare Maximum - Pushing the Paradigm
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5
+  brandStrength: 0.6875
+  rhythmicContrast: 1
   brandColors:
     - '#93b630'
     - '#829ca0'
     - '#000000'
     - '#808080'
     - '#718e8e'
-  brandStrength: 0.6875
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Bare Maximum
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.40165
+layout_spectrum: 0
